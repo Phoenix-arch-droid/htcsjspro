@@ -65,13 +65,14 @@ figcaption {
 }
 
 button{
-    font-size: 20px;
+    font-size: 17px;
     border: transparent;
     width: fit-content;
     background-color: rgb(173, 218, 173);
-    border-radius: 30px;
-    padding-right: 10px;
-    padding-left: 10px;
+    border-radius: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+    position : relative;
 }
 
 button:hover {
